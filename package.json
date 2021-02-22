@@ -2,5 +2,13 @@
   "name": "test-cases",
   "type": "3d",
   "uuid": "cb08068e-a967-4ef4-b4d4-b4fd8d24334c",
-  "version": "1.2.0"
+  "version": "3.0.0",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.1",
+    "@typescript-eslint/parser": "^4.15.1",
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "typescript": "^4.1.5"
+  }
 }
